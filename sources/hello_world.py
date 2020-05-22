@@ -1,2 +1,3 @@
 if __name__ == '__main__':
-    print("Hello world")
+    for i in range(5):
+        print("Hello world")
